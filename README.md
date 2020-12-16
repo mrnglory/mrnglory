@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrnglory%2Fhit-counter&count_bg=%23E2C1FF&title_bg=%23E2C1FF&icon=&icon_color=%23C9C9C9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<br/><br/>
-
+<br/>
 <p>
 Stacks<br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -37,6 +36,6 @@ IDEs<br/>
 <br/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
 </p>
-<br/><br/><br/>
+<br/><br/>
   
 <a href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>
