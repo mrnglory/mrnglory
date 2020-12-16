@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrnglory%2Fhit-counter&count_bg=%23E2C1FF&title_bg=%23E2C1FF&icon=&icon_color=%23C9C9C9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br/><br/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,4 +32,5 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
+</p>
 <br/><br/>
