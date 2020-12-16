@@ -33,9 +33,7 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
-<br/><br/>
-  
-<a href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>
-
 </p>
 <br/><br/>
+  
+<a align="center" href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>
