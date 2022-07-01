@@ -37,4 +37,4 @@ Here are the technologies and environments I've used at least once.
 </p>
 <br/><br/><br/>
   
-<a href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>
+<!--<a href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>-->
