@@ -38,7 +38,7 @@ Namespaces are one honking great idea -- let's do more of those!
 - framework: sqlalchemy, spring
 - database: mysql, oracle
 
-### career
+### careers
 - [22/07~today] KB Securities SPEC unit | backend engineering
 - [21/08~22/03] NICE D&B IT head office | IT system management
 
