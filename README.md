@@ -29,7 +29,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ### about
 - position: junior backend developer w/ python
-- mbti: intj
 
 ### techs
 - language: python, java
