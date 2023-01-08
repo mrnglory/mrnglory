@@ -28,12 +28,12 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ### about
-- position: junior backend developer w/ python
+- position: Junior Back-End Developer w/ Python
 
 ### techs
-- language: python, java
-- framework: sqlalchemy, spring
-- database: mysql, oracle
+- language: Python
+- framework: FastAPI
+- database: MySQL
 
 ### careers
 - [22/07~today] KB Securities SPEC unit | backend engineering
