@@ -40,4 +40,5 @@ Namespaces are one honking great idea -- let's do more of those!
 - [21/08~22/03] NICE D&B IT head office | IT system management
 
 <br/><br/>
-<!--<a href="https://solved.ac/mrnglory">![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrnglory)</a>-->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mrnglory)](https://solved.ac/mrnglory)
