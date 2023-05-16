@@ -1,7 +1,8 @@
 ### i wanna be a pythonic developer.&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrnglory%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=visits&edge_flat=true)
 ```
 C:\Users\Administrator>python
-Python 3.9.12
+Python 3.10.11
+Type "help", "copyright", "credits" or "license" for more information.
 >>> import this
 The Zen of Python, by Tim Peters
 
@@ -28,7 +29,7 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 ### about
-- position: Junior Back-End Developer w/ Python
+- position: Junior Back-End Developer
 
 ### techs
 - language: Python
@@ -36,9 +37,6 @@ Namespaces are one honking great idea -- let's do more of those!
 - database: MySQL
 
 ### careers
-- [22/07~today] KB Securities SPEC unit | backend engineering
+- [23/06~today] Shinhan savings bank ICT | Core banking development
+- [22/07~23/05] KB Securities SPEC unit | backend engineering
 - [21/08~22/03] NICE D&B IT head office | IT system management
-
-<br/><br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mrnglory)](https://solved.ac/mrnglory)
