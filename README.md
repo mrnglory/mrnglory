@@ -27,16 +27,3 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 >>>
 ```
-
-### about
-- position: Junior Back-End Developer
-
-### techs
-- language: Python
-- framework: FastAPI
-- database: MySQL
-
-### careers
-- [23/06~today] Shinhan savings bank ICT | Core banking development
-- [22/07~23/05] KB Securities SPEC unit | backend engineering
-- [21/08~22/03] NICE D&B IT head office | IT system management
