@@ -1,7 +1,7 @@
 ### i wanna be a pythonic developer.&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrnglory%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=visits&edge_flat=true)
 ```
 C:\Users\Administrator>python
-Python 3.10.11
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import this
 The Zen of Python, by Tim Peters
